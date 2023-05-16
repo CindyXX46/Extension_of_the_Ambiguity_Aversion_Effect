@@ -8,4 +8,4 @@ To view the entire experiment, please **DOWNLOAD** the zip file. You may use PyC
 
 **Please ensure all files are in the SAME FOLDER when you run the code**
 
-For the purposes and details of this project, you may check the Task_Specificationn file.
+For the purposes and details of this project, you may check the Task_Specification file.
